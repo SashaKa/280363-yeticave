@@ -1,7 +1,7 @@
 # Личный проект «YetiCave»
 
 * Студент: [Sasha Katushkova](https://up.htmlacademy.ru/php/8/user/280363).
-* Наставник: `Неизвестно`.
+* Наставник: `test`.
 
 ---
 
